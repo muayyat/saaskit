@@ -9,7 +9,9 @@ The goal of the project is to help developers build SaaS products without gettin
 
 #### Stack 
 [ASP.NET Core](http://dotnet.microsoft.com)
+
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 [SQL](https://docs.microsoft.com/en-us/sql/)
 
 
