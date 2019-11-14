@@ -23,4 +23,4 @@ You can contribute in a number of ways. If you have questions or would like to d
 
 #### Support
 
-This project is open source and i forked it from [Ben Foster](http://benforster.io). If you'd like to discuss commercial support options or need help implementing multi-tenancy or building SAAS applications in .NET then [get in touch](mailto: muayyat@outlook.com). <br/> If you want to check my credentials - check out [my blog](http://muayyat.github.io).
+This project is open source and i forked it from [Ben Foster](http://benforster.io). If you'd like to discuss commercial support options or need help implementing multi-tenancy or building SAAS applications in .NET then [get in touch](mailto:muayyat@outlook.com). <br/> If you want to check my credentials - check out [my blog](http://muayyat.github.io).
